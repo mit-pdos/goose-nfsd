@@ -1,0 +1,8 @@
+panic: out-of-bounds write at 4
+github.com/tchajed/goose/machine/disk.MemDisk.Write
+github.com/mit-pdos/goose-nfsd/wal.(*circularAppender).logBlocks
+github.com/mit-pdos/goose-nfsd/wal.(*circularAppender).Append
+github.com/mit-pdos/goose-nfsd/wal.(*Walog).logAppend
+github.com/mit-pdos/goose-nfsd/wal.(*Walog).logger
+github.com/mit-pdos/goose-nfsd/wal.(*Walog).startBackgroundThreads.func1
+created by github.com/mit-pdos/goose-nfsd/wal.

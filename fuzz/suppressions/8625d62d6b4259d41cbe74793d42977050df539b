@@ -1,0 +1,5 @@
+panic: address not aligned
+github.com/mit-pdos/goose-nfsd/fuzz2.(*MockDisk).Write
+github.com/mit-pdos/goose-nfsd/fuzz2.Fuzz
+go-fuzz-dep.Main
+main.main
